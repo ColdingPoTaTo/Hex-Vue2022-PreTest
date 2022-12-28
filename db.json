@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "admin",
+            "email": "admin@localhost"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": 100,
+            "user_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 200,
+            "user_id": 1
+        }
+    ]
+}
